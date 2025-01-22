@@ -1,0 +1,11 @@
+{
+    "DB_HOST": "DB_HOST",
+    "DB_PORT": "DB_PORT",
+    "DB_USER": "DB_USER",
+    "DB_PASSWORD": "DB_PASSWORD",
+    "REPORT_SERVICE": {
+      "URL": "URL",
+      "URL_OCR": "URL_OCR",
+      "URL_CHATGPT": "URL_CHATGPT"
+    }
+  }

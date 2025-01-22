@@ -1,0 +1,12 @@
+{
+  "DB_HOST": "",
+  "DB_PORT": 43649,
+  "DB_USER": "",
+  "DB_PASSWORD": "",
+  "DATABASE": "",
+  "REPORT_SERVICE": {
+    "URL": "https://api-notificaciones.up.railway.app/api/v1/notificaciones/correo",
+    "URL_OCR": "https://microservicioocr-production.up.railway.app/api/v1/ocr",
+    "URL_CHATGPT": "https://microservicio-openai-production.up.railway.app/api/chat/ask/"
+  }
+}
